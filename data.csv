@@ -1,0 +1,11 @@
+Income,Recreation,Job,Status,Age-group,home-owner,credit worthiness
+M,skiing,design,single,Twenties,no,highRisk
+H,golf,trading,married,Forties,yes,lowRisk
+L,speedway,transport,married,Thirties,yes,medRisk
+M,football,banking,single,Thirties,yes,lowRisk
+H,flying,media,married,Fifties,yes,highRisk
+L,football,security,single,Twenties,no,medRisk
+M,golf,media,single,Thirties,yes,medRisk
+M,golf,transport,married,Forties,yes,lowRisk
+H,skiing,banking,single,Thirties,yes,highRisk
+L,golf,unemployed,married,Forties,yes,highRisk
